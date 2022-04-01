@@ -1,0 +1,15 @@
+C:\Users\komkr\source\repos\Week11IThink\bin\Debug\net6.0\Week11IThink.exe
+C:\Users\komkr\source\repos\Week11IThink\bin\Debug\net6.0\Week11IThink.deps.json
+C:\Users\komkr\source\repos\Week11IThink\bin\Debug\net6.0\Week11IThink.runtimeconfig.json
+C:\Users\komkr\source\repos\Week11IThink\bin\Debug\net6.0\Week11IThink.dll
+C:\Users\komkr\source\repos\Week11IThink\bin\Debug\net6.0\ref\Week11IThink.dll
+C:\Users\komkr\source\repos\Week11IThink\bin\Debug\net6.0\Week11IThink.pdb
+C:\Users\komkr\source\repos\Week11IThink\obj\Debug\net6.0\Week11IThink.csproj.AssemblyReference.cache
+C:\Users\komkr\source\repos\Week11IThink\obj\Debug\net6.0\Week11IThink.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\komkr\source\repos\Week11IThink\obj\Debug\net6.0\Week11IThink.AssemblyInfoInputs.cache
+C:\Users\komkr\source\repos\Week11IThink\obj\Debug\net6.0\Week11IThink.AssemblyInfo.cs
+C:\Users\komkr\source\repos\Week11IThink\obj\Debug\net6.0\Week11IThink.csproj.CoreCompileInputs.cache
+C:\Users\komkr\source\repos\Week11IThink\obj\Debug\net6.0\Week11IThink.dll
+C:\Users\komkr\source\repos\Week11IThink\obj\Debug\net6.0\ref\Week11IThink.dll
+C:\Users\komkr\source\repos\Week11IThink\obj\Debug\net6.0\Week11IThink.pdb
+C:\Users\komkr\source\repos\Week11IThink\obj\Debug\net6.0\Week11IThink.genruntimeconfig.cache
